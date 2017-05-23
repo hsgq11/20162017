@@ -2,32 +2,19 @@
 /**
  * Beschreiben Sie hier die Klasse Chip.
  * 
- * @author (Ihr Name) 
- * @version (eine Versionsnummer oder ein Datum)
+ * @author Krueger
+ * @version 170523
  */
-public class Chip
-{
-    // Instanzvariablen - ersetzen Sie das folgende Beispiel mit Ihren Variablen
-    private int x;
+public class Chip {
+
 
     /**
-     * Konstruktor für Objekte der Klasse Chip
+     * 
      */
     public Chip()
     {
-        // Instanzvariable initialisieren
-        x = 0;
+        
     }
 
-    /**
-     * Ein Beispiel einer Methode - ersetzen Sie diesen Kommentar mit Ihrem eigenen
-     * 
-     * @param  y    ein Beispielparameter für eine Methode
-     * @return        die Summe aus x und y
-     */
-    public int beispielMethode(int y)
-    {
-        // tragen Sie hier den Code ein
-        return x + y;
-    }
+
 }
